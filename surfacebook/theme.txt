@@ -12,8 +12,8 @@ terminal-box: "terminal_*.png"
    top = 800
    height = 40%
    item_font = "Ubuntu Regular 40"
-   item_color = "#231f20"
-   selected_item_color= "#f08080"
+   item_color = "#ffffff"
+   selected_item_color= "#b0b0b0"
    icon_width = 78
    icon_height = 80
    item_height = 80
